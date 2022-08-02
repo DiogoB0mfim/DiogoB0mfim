@@ -1,12 +1,12 @@
 ## Olá, meu nome é Diogo
 - 👨‍💻 Atualmente estudo Desenvolvimento Web Full Stack na Labenu e estou focando em React.JS
 - 😃 Pronomes: Ele/Dele
-
+##
 
 <div>
   <a href="https://github.com/DiogoB0mfim">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiogoB0mfim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoB0mfim&layout=compact&langs_count=7&theme=dracula">
+  <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=DiogoB0mfim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoB0mfim&layout=compact&langs_count=7&theme=dracula">
 </div>
 
 <div style="display: inline_block"><br>
