@@ -1,5 +1,5 @@
 ## Olá, meu nome é Diogo
-- 👨‍💻 Atualmente estudo Desenvolvimento Web Full Stack na Labenu e stou focando em React.Js
+- 👨‍💻 Atualmente estudo Desenvolvimento Web Full Stack na Labenu e estou focando em React.JS
 - 😃 Pronomes: Ele/Dele
 ##
 
@@ -26,3 +26,4 @@
 <div> 
   <a href = "mailto:diogohbomfim@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/diogo-b0mfim/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ </div>
