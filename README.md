@@ -1,5 +1,5 @@
 ## Olá, meu nome é Diogo
-- 👨‍💻 Estudo Desenvolvimento Web Full Stack na Labenu e estou focando em React.JS
+- 👨‍💻 Estudo Desenvolvimento Web Full Stack na Labenu e estou focado em React.JS
 - 😃 Pronomes: Ele/Dele
 ##
 
