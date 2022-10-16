@@ -1,5 +1,5 @@
 ## Olá, meu nome é Diogo
-- 👨‍💻 Estudo Desenvolvimento Web Full Stack e estou focado em React.JS
+- 👨‍💻 Estudante de Desenvolvimento Web Full Stack
 - 😃 Pronomes: Ele/Dele
 ##
 
