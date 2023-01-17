@@ -1,5 +1,5 @@
 ## Olá, meu nome é Diogo
-- 👨‍💻 Estudante de Desenvolvimento Web Full Stack
+- 👨‍💻 Desenvolvedor Web FullStack
 - 😃 Pronomes: Ele/Dele
 ##
 
